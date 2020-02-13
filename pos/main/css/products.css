@@ -1,0 +1,318 @@
+body{
+	background: #ecf0f1;
+}
+#dt{
+	padding-left: 14%;
+	text-align:left;
+}
+.cent{
+	color: blue;
+}
+select{
+   		width: 175px; 
+        text-align-last:center;
+		padding: 5px;
+		padding-left: 26px;
+		border-radius: 5px;
+		background: gray;
+		color: white;
+        }
+.option{
+	color: white;
+}
+table{
+	width: 95%;
+	margin-top: 5%;
+	margin: 10px auto;
+	padding: 10px auto;
+	text-align: center;
+    color: black;
+}
+.tb{
+	width: 95%;
+	margin-top: 5%;
+	margin: 10px auto;
+	padding: 10px auto;
+	text-align: center;
+    color: black;
+}
+tr{
+	
+}
+th, td{
+	height: 30px;
+	padding: 5px;
+	border: 1px solid black;
+}
+.box-tbl{
+	position: relative;
+	width: 85%;
+	left: 13%;
+	border: 1px solid black;
+
+}
+
+.cent{
+	margin-left: 40%;
+}
+.all{
+	margin-top:-15%;
+}
+#myModal{
+	width: 117%;
+	background: transparent;
+}
+.input-box{
+	margin-left: 14%;
+	margin-top: -6%;
+	width: 41%;
+	border: 2px solid black;
+}
+.modal-content{
+	width: 70%;
+	background:#222f3e;
+}
+.modal-body{
+	text-align: center;
+}
+.input-boxx{
+	margin-top: -5.5%;
+	width: 41%;
+	margin-left: 60%;
+	border: 2px solid black;
+}
+
+.boxxx{
+	margin-left: 10%;
+	color: white;
+
+}
+.rtn{
+	width: 13%;
+
+}
+.myinput{
+	margin: 4px auto;
+	text-align: center;
+	border-radius: 5px;
+	width: 70%;
+	padding: 5px;
+	background: black;
+	opacity: 0.6;
+	color: white;
+}
+.boxx{
+	width:50%;
+	padding: 3px;
+    border-radius: 7px;
+	text-align: center;
+    background: gray;
+	color: white;
+}
+.line{
+    position: relative;
+    border: 0;
+    border-left: 1px solid black;
+    height: 110px;
+}
+.btn-success{
+	width:15%;
+}
+}
+footer{
+    background-color: transparent;
+	padding: 25px;
+	text-align: center;
+}
+
+.msg{
+	margin: 30px auto;
+	padding: 10px;
+	border-radius: 5px;
+	color: #3c763d;
+	background: #dff0d8;
+	border: 1px solid #3c763d;
+	width: 50%;
+	text-align: center;
+}
+.order{
+	margin-left: 68%;
+}
+.btn-edit
+{
+	text-decoration: none;
+	padding: 2px 5px;
+	color: white;
+	border-radius: 2px;
+	background: #2E8B57;
+}
+.btn-update
+{
+	text-decoration: none;
+	padding: 0px 5px;
+	color: white;
+	border-radius: 2px;
+	background: #5352ed;
+}
+.signup-box{
+	text-align: center;
+	margin-left: 24.5%;
+	border: 1px solid black;
+	width: 50%;
+	color: white;
+	padding-bottom: 25px;
+}
+.btn-check
+{
+	text-decoration: none;
+	padding: 1px 5px;
+	color: white;
+	border-radius: 2px;
+	background: #52a9fa;
+}
+
+.boxx::placeholder{
+	color: white;
+}
+.btn-grayed{
+  background: #52a9fa;
+	cursor: no-drop;
+  color: white;
+  padding: 2px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#item_code, .date_rec{
+ background: #535c68;
+	cursor: no-drop;
+}
+.btn-grayed:hover, .btn-grayed:active {
+  background: #52a9fa;
+  cursor: no-drop;
+    text-decoration: none;
+	color: white;
+  display: inline-block;
+}
+.btn-delete{
+	text-decoration: none;
+	padding: 2px 5px;
+	color: white;
+	background: #800000;
+}
+::placeholder{
+    color: black;
+}
+::date{
+	color: white;
+}
+#rtn{
+    margin-left: 1%;
+}
+#rtnn{
+	margin-left: 5%;
+}
+#multi{
+    margin-left: 68%;
+}
+.td-input{
+	width:100%;
+	padding: 3px;
+    border-radius: 7px;
+	text-align: center;
+    background: gray;
+	color: white;
+}
+.readOnly{
+	cursor: no-drop;
+	width:100%;
+	padding: 3px;
+    border-radius: 7px;
+	text-align: center;
+    background: gray;
+	color: white;
+}
+.src_bar{
+	
+	margin-top: 2%;
+	margin-bottom: -2%;
+	margin-left: 25%;
+	width: 50%;
+	border-radius: 5px;
+	border: 1px solid black;
+	padding-top: 6px;
+	background: transparent;
+	text-align: center;
+	color: black;
+}
+::placeholder .src{
+	color: black;
+}
+.green{
+	background: green;
+}
+#std_text{
+    text-align: center;
+    color: black;
+    letter-spacing: 3px;
+}
+.h4{
+    text-align: center;
+	color: white;
+	margin-left: 4%;
+	letter-spacing: 3px;
+}
+.borderless{
+	border: none;
+}
+.th-css{
+	text-align: center;
+    padding-left: 2px;
+    color: black;
+    background: #807e7c;
+    border: 1px solid black;
+}
+.center-numbers{
+    text-align: center;
+    margin: 5px auto;
+    margin-top: -15px;
+}
+.btn-css{
+    margin-left: 5px;
+}
+.sub{
+	width:8%;
+}
+.error-msg{
+	margin-left: 10%;
+	margin-top: 1%;
+	width: 80%;
+	text-align: center;
+	border: 1px solid black;
+	height: 30px;
+	padding-top: 5px;
+	color: white;
+	background: #800000;
+}
+.footer-total{
+	text-align: left;
+	padding-left: 25px;
+	padding-top: 10px;
+}
+
+.red-bg{
+	background-color:#d63031;
+	color: white;
+}
+.badge {
+  position: absolute;
+  background: red;
+  top: 46.1%;
+  left: 2.1%;
+  color: white;
+}
+#Suppliers{
+	margin-left: 9%;
+	width: 13%;
+	padding: 5px;
+}

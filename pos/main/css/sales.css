@@ -1,0 +1,152 @@
+body {
+  background-image:url("img/cs6.png");
+   height: 100vh;
+   background-size: cover;
+   background-position: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 12%;
+  background-color: #2c3036;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  text-decoration: none;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  color:white;
+}
+
+li a.active {
+	text-decoration: none;
+  background-color: #4CAF50;
+  color: white;
+}
+.welcome{
+	color: white;
+}
+.nav{
+	background:#2c3036;
+	margin-bottom: -10px;
+}
+.pos{
+	margin-top: 1%;
+	color: white;
+	margin-left: 40%;	
+}
+.sub{
+	letter-spacing: 3px;
+	margin-left: 37%;
+}
+.cal{
+	letter-spacing: 2px;
+}
+#std{
+    margin-left: 20%;
+}
+#total{
+	margin-left: 3%;
+}
+.input-boxx{
+	margin-top: -2.5%;
+	width: 41%;
+	margin-left: 30%;
+	border: 2px solid black;
+}
+.boxx{
+	position: relative;
+	left: 2%;
+	padding: 5px;
+	width:80%;
+    border-radius: 7px;
+	text-align: center;
+    background: gray;
+}
+
+.rtn{
+	width: 13%;
+
+}
+.myinput{
+	margin: 4px auto;
+	text-align: center;
+	border-radius: 5px;
+	width: 70%;
+	padding: 5px;
+	background: black;
+	opacity: 0.6;
+	color: white;
+}
+
+.pr{
+	margin-left: 4%;
+}
+.qty{
+	margin-left: 6%;
+}
+.date{
+	width: 80%;
+	padding-left: 8%;
+}
+.bal{
+	margin-left: -1%;
+}
+.cash2{
+	margin-left: 4%;
+}
+.signup-box{
+	text-align: center;
+	margin-top: 10%;
+	margin-left: 15%;
+	border: 1px solid black;
+	width: 80%;
+}
+
+.box-tbl{
+	position: relative;
+	width: 85%;
+	left: 8%;
+	border: 1px solid black;
+	margin-top: 3%;
+
+}
+table{
+	width: 95%;
+	margin: 10px auto;
+	padding: 10px auto;
+	text-align: center;
+    color: white;
+}
+tr{
+	
+}
+th, td{
+	height: 30px;
+	padding: 5px;
+	border: 1px solid black;
+}
+.th-css{
+	text-align: center;
+    padding-left: 2px;
+    color: black;
+    background: #807e7c;
+    border: 1px solid black;
+}
+.error-msg{
+	margin-left: 10%;
+	margin-top: 1%;
+	width: 80%;
+	text-align: center;
+	border: 1px solid black;
+	height: 30px;
+	padding-top: 5px;
+	color: white;
+	background: #800000;
+}

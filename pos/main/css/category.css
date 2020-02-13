@@ -1,0 +1,249 @@
+body{
+	background: #ecf0f1;
+}
+#dt{
+	padding-left: 10%;
+}
+.cent{
+	color: blue;
+}
+
+table{
+	width: 95%;
+	margin: 10px auto;
+	padding: 10px auto;
+	text-align: center;
+    color: black;
+}
+tr{
+
+}
+th, td{
+	height: 30px;
+	padding: 15px;
+	border: 1px solid black;
+}
+#Suppliers{
+	margin-left: 9.2%;
+	width: 13%;
+	padding: 5px;
+}
+.dl{
+	text-align:center;
+}
+.box-tbl{
+	position: relative;
+	width: 85%;
+	left: 13%;
+	border: 1px solid black;
+
+}
+.cent{
+	margin-left: 40%;
+}
+.all{
+	margin-top:-5%;
+}
+.input-box{
+	margin-left: 14%;
+	margin-top: 2%;
+	width: 41%;
+	border: 2px solid black;
+}
+
+.input-boxx{
+	margin-top: -5.5%;
+	width: 41%;
+	margin-left: 60%;
+	border: 2px solid black;
+}
+.boxx{
+	position: relative;
+	left: 10%;
+	padding: 5px;
+	width:80%;
+    border-radius: 7px;
+	text-align: center;
+    background: gray;
+}
+.line{
+    position: relative;
+    border: 0;
+    border-left: 1px solid black;
+    height: 110px;
+}
+.btn-success{
+	width:15%;
+}
+}
+footer{
+    background-color: transparent;
+	padding: 25px;
+	text-align: center;
+}
+
+.msg{
+	margin: 30px auto;
+	padding: 10px;
+	border-radius: 5px;
+	color: #3c763d;
+	background: #dff0d8;
+	border: 1px solid #3c763d;
+	width: 50%;
+	text-align: center;
+}
+.btn-edit
+{
+	text-decoration: none;
+	padding: 2px 5px;
+	color: white;
+	border-radius: 2px;
+	background: #2E8B57;
+}
+.dboard-img{
+	margin-right: 5px;
+	margin-top: -7px;
+}
+.dboard-text{
+	margin-top: .8%;
+	margin-left: 2%;
+	color: black;
+}
+.dboard{
+	background-color: #ced6e0;
+	position: relative;
+	opacity: 0.9;
+	margin-left: 13%;
+	width: 85%;
+	border: 1px solid #ced6e0;
+	border-radius: 7px;
+	height: 5.3%;
+}
+.edit{
+	padding-left: 1px;
+	padding-top: 5px;
+	padding-bottom: 4px;
+	padding-right:1px;
+}
+.save{
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 4px;
+	padding-right:9px;
+}
+.btn-check
+{
+	text-decoration: none;
+	padding: 1px 5px;
+	color: white;
+	border-radius: 2px;
+	background: #52a9fa;
+}
+.btn-delete{
+	text-decoration: none;
+	padding: 2px 5px;
+	color: white;
+	background: #800000;
+}
+::placeholder{
+    color: black;
+}
+::date{
+	color: black;
+}
+#rtn{
+    margin-left: 1%;
+}
+#std{
+    margin-left: 80%;
+}
+.td-input{
+	width:100%;
+	padding: 3px;
+    border-radius: 7px;
+	text-align: center;
+    background: gray;
+	color: white;
+}
+.td-select{
+	width:100%;
+	padding: 3px;
+		border-radius: 7px;
+		background: gray;
+	text-align: center;
+	color: white;
+}
+.src_bar{
+	margin-top: 2%;
+	margin-bottom: -2%;
+	margin-left: 25%;
+	width: 50%;
+	border-radius: 5px;
+	border: 1px solid black;
+	padding-top: 6px;
+	background: transparent;
+	text-align: center;
+}
+#std_text{
+    text-align: center;
+    color: white;
+    letter-spacing: 3px;
+}
+.h4{
+    text-align: center;
+}
+.th-css{
+	text-align: center;
+    padding-left: 2px;
+    color: black;
+    background: #807e7c;
+    border: 1px solid black;
+}
+.center-numbers{
+    text-align: center;
+    margin: 5px auto;
+    margin-top: -15px;
+}
+.btn-css{
+    margin-left: 5px;
+}
+.td{
+    border: 1px solid black;
+    padding-right: 10px;
+}
+.error-msg{
+	margin-left: 10%;
+	margin-top: 1%;
+	width: 80%;
+	text-align: center;
+	border: 1px solid black;
+	height: 30px;
+	padding-top: 5px;
+	color: white;
+	background: #800000;
+}
+.h4{
+	color: white;
+}
+.boxx::placeholder{
+	color: white;
+}
+#myModal{
+	width: 117%;
+	background: transparent;
+}
+.modal-content{
+	width: 70%;
+	background:#222f3e;
+}
+.modal-body{
+	margin-left: 4%;
+}
+
+.badge {
+  position: absolute;
+  background: red;
+  top: 46.1%;
+  left: 2.1%;
+  color: white;
+}

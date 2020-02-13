@@ -1,0 +1,88 @@
+body{
+	background-image:url("http://www.cherishpr.com/wp-content/uploads/2016/10/1227568-blackboard-wallpaper.jpg");
+   height: 100vh;
+   background-size: cover;
+   background-position: center;
+}
+.cent{
+	color: blue;
+}
+
+table{
+	width: 80%;
+	margin: 30px auto;
+	text-align: left;
+}
+tr{
+	border-bottom: 1px solid black;
+}
+th, td{
+	height: 30px;
+	padding: 5px;
+}
+.box-tbl{
+	position: relative;
+	width: 60%;
+	left: 20%;
+	border: 1px solid black;
+}
+.cent{
+	margin-left: 40%;
+}
+.all{
+	margin-top:2%;
+}
+.input-box{
+	position: relative;
+	margin-top: 2%;
+	width: 50%;
+	left: 25%;
+	border: 1px solid black;
+}
+.boxx{
+	position: relative;
+	left: 10%;
+	padding: 5px;
+	width:80%;
+	border: 0;
+	border-bottom: 1px solid gray;
+	text-align: center;
+}
+.btn-success{
+	width:15%;
+}
+#btn{
+	margin-right: 3%;
+}
+footer{
+    background-color: #f2f2f2;
+	padding: 25px;
+	text-align: center;
+}
+
+.msg{
+	margin: 30px auto;
+	padding: 10px;
+	border-radius: 5px;
+	color: #3c763d;
+	background: #dff0d8;
+	border: 1px solid #3c763d;
+	width: 50%;
+	text-align: center;
+}
+.btn-edit
+{
+	text-decoration: none;
+	padding: 2px 5px;
+	color: white;
+	border-radius: 2px;
+	background: #2E8B57;
+}
+.btn-delete{
+	text-decoration: none;
+	padding: 2px 5px;
+	color: white;
+	background: #800000;
+}
+/* login.php css*/
+

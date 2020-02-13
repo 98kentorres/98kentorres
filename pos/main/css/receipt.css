@@ -1,0 +1,55 @@
+body{
+	background: ecf0f1;
+} 
+
+table{
+	width: 60%;
+	margin: 10px auto;
+	padding: 10px auto;
+	text-align: center;
+    color: black;
+	font-size: 11px;
+}
+tr{
+	
+}
+th, td{
+	height: 30px;
+	padding: 5px;
+	border: 1px solid black;
+}
+.box-tbl{
+	position: relative;
+	width: 85%;
+	left: 10%;
+	top: 5%;
+}
+.selling{
+	text-align: center;
+}
+.footer-margin{
+	text-align: right;
+}
+.cancel{
+	margin-left: 56.9%;
+}
+a{
+	text-decoration: none;
+}
+.btns{
+	margin-top: 2%;
+}
+.company{
+	text-align: center;
+}
+.upper p{
+	margin-left: 20.5%;
+	font-size: 12px;
+}
+.badge {
+  position: absolute;
+  background: red;
+  top: 42.4%;
+  left: 18%;
+  color: white;
+}
